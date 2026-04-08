@@ -1,0 +1,7 @@
+patient_id,age,Gender,category,diagnosis
+1001,35,Male,1,A
+1002,45,Female,2,B
+1003,50,Male,3,C
+1004,30,Male,1,A
+1005,40,Female,2,B
+1006,60,Male,3,C
